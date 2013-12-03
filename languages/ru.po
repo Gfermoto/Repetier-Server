@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Repetier-Server\n"
 "POT-Creation-Date: 2013-01-27 15:14+0100\n"
-"PO-Revision-Date: 2013-12-04 01:18+0400\n"
+"PO-Revision-Date: 2013-12-04 01:44+0400\n"
 "Last-Translator: Stanislav Kolesnik <gfermoto@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "Выбрать инструкцию для редактирования"
 
 #: configure.php:72
 msgid "Current script:"
-msgstr "Текущая инструкчия:"
+msgstr "Текущая инструкция:"
 
 #: configure.php:73
 msgid "Save"
@@ -245,7 +245,7 @@ msgstr "Плавность:"
 
 #: printer.php:253
 msgid "Fan:"
-msgstr "Венилятор:"
+msgstr "Вентилятор:"
 
 #: printer.php:274
 msgid "Heated Bed"
@@ -253,7 +253,7 @@ msgstr "Подогрев стола"
 
 #: printer.php:293
 msgid "Printer Log"
-msgstr "Журнал команд принтера"
+msgstr "Журнал принтера"
 
 #: printer.php:294
 msgid "Show commands send<br/>to the printer."
@@ -337,4 +337,4 @@ msgid "Copy"
 msgstr "Копировать"
 
 #~ msgid "Manage"
-#~ msgstr "Управлять"
+#~ msgstr "Обслуживание"
